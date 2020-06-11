@@ -8,9 +8,9 @@ tags: golang
 
 1. 采用for range循环获取切片Permissions中的值不能修改结构体tp中的值
    
-   {% asset_img 1.png %}
+   ![](2.png)
    
 2. 采用for range循环获取切片Permissions的索引可以修改结构体tp中的值
 
-![](2.png)
+{% asset_img 1.png %}
 
